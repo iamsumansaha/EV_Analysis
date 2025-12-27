@@ -1,15 +1,5 @@
 # 🚗 Electric Vehicle Analytics using SQL
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
-
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/ev-analytics-sql?style=social)](https://github.com/yourusername/ev-analytics-sql)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/ev-analytics-sql?style=social)](https://github.com/yourusername/ev-analytics-sql)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-
 ## 📌 Project Overview
 
 This project focuses on analyzing **Electric Vehicle (EV) data** using **advanced SQL techniques** to uncover insights related to **performance, cost efficiency, environmental impact, and ownership economics**.
